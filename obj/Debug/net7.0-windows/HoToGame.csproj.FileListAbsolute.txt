@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\bin\Debug\net7.0-windows\HoToGame.exe
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\bin\Debug\net7.0-windows\HoToGame.deps.json
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\bin\Debug\net7.0-windows\HoToGame.runtimeconfig.json
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\bin\Debug\net7.0-windows\HoToGame.dll
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\bin\Debug\net7.0-windows\HoToGame.pdb
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.AssemblyInfo.cs
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.dll
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\refint\HoToGame.dll
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.pdb
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\HoToGame.genruntimeconfig.cache
+C:\Users\disrct\Desktop\AdvancedSiSharp\HoToGame\obj\Debug\net7.0-windows\ref\HoToGame.dll
